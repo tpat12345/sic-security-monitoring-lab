@@ -70,4 +70,4 @@ These are sample results from controlled testing, not permanent totals.
 - Integrate a SIEM platform
 
 ## SOC Dashboard Screenshot
-![SOC Security Monitoring Dashboard](sic-dashboard.png)
+![SOC Security Monitoring Dashboard](soc-dashboard.png)
