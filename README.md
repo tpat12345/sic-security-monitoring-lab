@@ -71,3 +71,19 @@ These are sample results from controlled testing, not permanent totals.
 
 ## SOC Dashboard Screenshot
 [View SOC Dashboard Screenshot](SSH%20Authentication%20Monitoring.pdf)
+
+## Installation and Setup
+
+### Requirements
+- Ubuntu Server 24.04 LTS
+- Python 3
+- OpenSSH Server
+- Auditd
+
+### Run the Dashboard
+
+1. Clone this repository.
+2. Navigate into the project folder.
+3. Create a Python virtual environment.
+4. Install Streamlit and Pandas.
+5. Start the dashboard.
