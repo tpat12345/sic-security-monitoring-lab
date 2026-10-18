@@ -87,3 +87,8 @@ These are sample results from controlled testing, not permanent totals.
 3. Create a Python virtual environment.
 4. Install Streamlit and Pandas.
 5. Start the dashboard.
+
+python3 -m venv venv
+source venv/bin/activate
+pip install streamlit pandas
+streamlit run app.py
