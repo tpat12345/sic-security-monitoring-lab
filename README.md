@@ -68,3 +68,6 @@ These are sample results from controlled testing, not permanent totals.
 - Implement event retention and log rotation
 - Add network traffic monitoring
 - Integrate a SIEM platform
+
+## SOC Dashboard Screenshot
+![SOC Security Monitoring Dashboard](sic-dashboard.png)
