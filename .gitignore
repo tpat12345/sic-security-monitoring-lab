@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+*.tar.gz
+.env
+.env.*
+*.pem
+*.key
+id_rsa
+id_ed25519
+app-backup.py
+app-before-*.py
